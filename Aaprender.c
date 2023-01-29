@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Estou a apreder C ");
+    printf("Estou a apreder C.");
     return 0;
 
 }
